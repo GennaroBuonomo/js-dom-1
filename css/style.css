@@ -3,3 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+#myButton{
+   padding: 7px 11px;
+   font-size: 16px;
+   border-radius: 25px;
+}
+img{
+  height: 200px;
+}
