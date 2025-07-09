@@ -3,6 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+background-color: black;   
+} 
+
+h1{
+   text-align: center;
+   font-family: cursive;
+   font-size: 40px;
+   color: #fff;
+}
 
 #myButton{
    padding: 7px 11px;
@@ -10,5 +20,6 @@
    border-radius: 25px;
 }
 img{
-  height: 200px;
+  width: 350px;
+  height: 500px;
 }
